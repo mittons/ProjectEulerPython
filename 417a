@@ -1,0 +1,1943 @@
+3 has a cycle of length 1 True
+
+6 has a cycle of length 1 False
+
+7 has a cycle of length 6 True
+
+9 has a cycle of length 1 False
+
+11 has a cycle of length 2 True
+
+12 has a cycle of length 1 False
+
+13 has a cycle of length 6 True
+
+14 has a cycle of length 6 False
+
+15 has a cycle of length 1 False
+
+17 has a cycle of length 16 True
+
+18 has a cycle of length 1 False
+
+19 has a cycle of length 18 True
+
+21 has a cycle of length 6 False
+
+22 has a cycle of length 2 False
+
+23 has a cycle of length 22 True
+
+24 has a cycle of length 1 False
+
+26 has a cycle of length 6 False
+
+27 has a cycle of length 3 False
+
+28 has a cycle of length 6 False
+
+29 has a cycle of length 28 True
+
+30 has a cycle of length 1 False
+
+31 has a cycle of length 15 True
+
+33 has a cycle of length 2 False
+
+34 has a cycle of length 16 False
+
+35 has a cycle of length 6 False
+
+36 has a cycle of length 1 False
+
+37 has a cycle of length 3 True
+
+38 has a cycle of length 18 False
+
+39 has a cycle of length 6 False
+
+41 has a cycle of length 5 True
+
+42 has a cycle of length 6 False
+
+43 has a cycle of length 21 True
+
+44 has a cycle of length 2 False
+
+45 has a cycle of length 1 False
+
+46 has a cycle of length 22 False
+
+47 has a cycle of length 46 True
+
+48 has a cycle of length 1 False
+
+49 has a cycle of length 42 False
+
+51 has a cycle of length 16 False
+
+52 has a cycle of length 6 False
+
+53 has a cycle of length 13 True
+
+54 has a cycle of length 3 False
+
+55 has a cycle of length 2 False
+
+56 has a cycle of length 6 False
+
+57 has a cycle of length 18 False
+
+58 has a cycle of length 28 False
+
+59 has a cycle of length 58 True
+
+60 has a cycle of length 1 False
+
+61 has a cycle of length 60 True
+
+62 has a cycle of length 15 False
+
+63 has a cycle of length 6 False
+
+65 has a cycle of length 6 False
+
+66 has a cycle of length 2 False
+
+67 has a cycle of length 33 True
+
+68 has a cycle of length 16 False
+
+69 has a cycle of length 22 False
+
+70 has a cycle of length 6 False
+
+71 has a cycle of length 35 True
+
+72 has a cycle of length 1 False
+
+73 has a cycle of length 8 True
+
+74 has a cycle of length 3 False
+
+75 has a cycle of length 1 False
+
+76 has a cycle of length 18 False
+
+77 has a cycle of length 6 False
+
+78 has a cycle of length 6 False
+
+79 has a cycle of length 13 True
+
+81 has a cycle of length 9 False
+
+82 has a cycle of length 5 False
+
+83 has a cycle of length 41 True
+
+84 has a cycle of length 6 False
+
+85 has a cycle of length 16 False
+
+86 has a cycle of length 21 False
+
+87 has a cycle of length 28 False
+
+88 has a cycle of length 2 False
+
+89 has a cycle of length 44 True
+
+90 has a cycle of length 1 False
+
+91 has a cycle of length 6 False
+
+92 has a cycle of length 22 False
+
+93 has a cycle of length 15 False
+
+94 has a cycle of length 46 False
+
+95 has a cycle of length 18 False
+
+96 has a cycle of length 1 False
+
+97 has a cycle of length 96 True
+
+98 has a cycle of length 42 False
+
+99 has a cycle of length 2 False
+
+101 has a cycle of length 4 True
+
+102 has a cycle of length 16 False
+
+103 has a cycle of length 34 True
+
+104 has a cycle of length 6 False
+
+105 has a cycle of length 6 False
+
+106 has a cycle of length 13 False
+
+107 has a cycle of length 53 True
+
+108 has a cycle of length 3 False
+
+109 has a cycle of length 108 True
+
+110 has a cycle of length 2 False
+
+111 has a cycle of length 3 False
+
+112 has a cycle of length 6 False
+
+113 has a cycle of length 112 True
+
+114 has a cycle of length 18 False
+
+115 has a cycle of length 22 False
+
+116 has a cycle of length 28 False
+
+117 has a cycle of length 6 False
+
+118 has a cycle of length 58 False
+
+119 has a cycle of length 48 False
+
+120 has a cycle of length 1 False
+
+121 has a cycle of length 22 False
+
+122 has a cycle of length 60 False
+
+123 has a cycle of length 5 False
+
+124 has a cycle of length 15 False
+
+126 has a cycle of length 6 False
+
+127 has a cycle of length 42 True
+
+129 has a cycle of length 21 False
+
+130 has a cycle of length 6 False
+
+131 has a cycle of length 130 True
+
+132 has a cycle of length 2 False
+
+133 has a cycle of length 18 False
+
+134 has a cycle of length 33 False
+
+135 has a cycle of length 3 False
+
+136 has a cycle of length 16 False
+
+137 has a cycle of length 8 True
+
+138 has a cycle of length 22 False
+
+139 has a cycle of length 46 True
+
+140 has a cycle of length 6 False
+
+141 has a cycle of length 46 False
+
+142 has a cycle of length 35 False
+
+143 has a cycle of length 6 False
+
+144 has a cycle of length 1 False
+
+145 has a cycle of length 28 False
+
+146 has a cycle of length 8 False
+
+147 has a cycle of length 42 False
+
+148 has a cycle of length 3 False
+
+149 has a cycle of length 148 True
+
+150 has a cycle of length 1 False
+
+151 has a cycle of length 75 True
+
+152 has a cycle of length 18 False
+
+153 has a cycle of length 16 False
+
+154 has a cycle of length 6 False
+
+155 has a cycle of length 15 False
+
+156 has a cycle of length 6 False
+
+157 has a cycle of length 78 True
+
+158 has a cycle of length 13 False
+
+159 has a cycle of length 13 False
+
+161 has a cycle of length 66 False
+
+162 has a cycle of length 9 False
+
+163 has a cycle of length 81 True
+
+164 has a cycle of length 5 False
+
+165 has a cycle of length 2 False
+
+166 has a cycle of length 41 False
+
+167 has a cycle of length 166 True
+
+168 has a cycle of length 6 False
+
+169 has a cycle of length 78 False
+
+170 has a cycle of length 16 False
+
+171 has a cycle of length 18 False
+
+172 has a cycle of length 21 False
+
+173 has a cycle of length 43 True
+
+174 has a cycle of length 28 False
+
+175 has a cycle of length 6 False
+
+176 has a cycle of length 2 False
+
+177 has a cycle of length 58 False
+
+178 has a cycle of length 44 False
+
+179 has a cycle of length 178 True
+
+180 has a cycle of length 1 False
+
+181 has a cycle of length 180 True
+
+182 has a cycle of length 6 False
+
+183 has a cycle of length 60 False
+
+184 has a cycle of length 22 False
+
+185 has a cycle of length 3 False
+
+186 has a cycle of length 15 False
+
+187 has a cycle of length 16 False
+
+188 has a cycle of length 46 False
+
+189 has a cycle of length 6 False
+
+190 has a cycle of length 18 False
+
+191 has a cycle of length 95 True
+
+192 has a cycle of length 1 False
+
+193 has a cycle of length 192 True
+
+194 has a cycle of length 96 False
+
+195 has a cycle of length 6 False
+
+196 has a cycle of length 42 False
+
+197 has a cycle of length 98 True
+
+198 has a cycle of length 2 False
+
+199 has a cycle of length 99 True
+
+201 has a cycle of length 33 False
+
+202 has a cycle of length 4 False
+
+203 has a cycle of length 84 False
+
+204 has a cycle of length 16 False
+
+205 has a cycle of length 5 False
+
+206 has a cycle of length 34 False
+
+207 has a cycle of length 22 False
+
+208 has a cycle of length 6 False
+
+209 has a cycle of length 18 False
+
+210 has a cycle of length 6 False
+
+211 has a cycle of length 30 True
+
+212 has a cycle of length 13 False
+
+213 has a cycle of length 35 False
+
+214 has a cycle of length 53 False
+
+215 has a cycle of length 21 False
+
+216 has a cycle of length 3 False
+
+217 has a cycle of length 30 False
+
+218 has a cycle of length 108 False
+
+219 has a cycle of length 8 False
+
+220 has a cycle of length 2 False
+
+221 has a cycle of length 48 False
+
+222 has a cycle of length 3 False
+
+223 has a cycle of length 222 True
+
+224 has a cycle of length 6 False
+
+225 has a cycle of length 1 False
+
+226 has a cycle of length 112 False
+
+227 has a cycle of length 113 True
+
+228 has a cycle of length 18 False
+
+229 has a cycle of length 228 True
+
+230 has a cycle of length 22 False
+
+231 has a cycle of length 6 False
+
+232 has a cycle of length 28 False
+
+233 has a cycle of length 232 True
+
+234 has a cycle of length 6 False
+
+235 has a cycle of length 46 False
+
+236 has a cycle of length 58 False
+
+237 has a cycle of length 13 False
+
+238 has a cycle of length 48 False
+
+239 has a cycle of length 7 True
+
+240 has a cycle of length 1 False
+
+241 has a cycle of length 30 True
+
+242 has a cycle of length 22 False
+
+243 has a cycle of length 27 False
+
+244 has a cycle of length 60 False
+
+245 has a cycle of length 42 False
+
+246 has a cycle of length 5 False
+
+247 has a cycle of length 18 False
+
+248 has a cycle of length 15 False
+
+249 has a cycle of length 41 False
+
+251 has a cycle of length 50 True
+
+252 has a cycle of length 6 False
+
+253 has a cycle of length 22 False
+
+254 has a cycle of length 42 False
+
+255 has a cycle of length 16 False
+
+257 has a cycle of length 256 True
+
+258 has a cycle of length 21 False
+
+259 has a cycle of length 6 False
+
+260 has a cycle of length 6 False
+
+261 has a cycle of length 28 False
+
+262 has a cycle of length 130 False
+
+263 has a cycle of length 262 True
+
+264 has a cycle of length 2 False
+
+265 has a cycle of length 13 False
+
+266 has a cycle of length 18 False
+
+267 has a cycle of length 44 False
+
+268 has a cycle of length 33 False
+
+269 has a cycle of length 268 True
+
+270 has a cycle of length 3 False
+
+271 has a cycle of length 5 True
+
+272 has a cycle of length 16 False
+
+273 has a cycle of length 6 False
+
+274 has a cycle of length 8 False
+
+275 has a cycle of length 2 False
+
+276 has a cycle of length 22 False
+
+277 has a cycle of length 69 True
+
+278 has a cycle of length 46 False
+
+279 has a cycle of length 15 False
+
+280 has a cycle of length 6 False
+
+281 has a cycle of length 28 True
+
+282 has a cycle of length 46 False
+
+283 has a cycle of length 141 True
+
+284 has a cycle of length 35 False
+
+285 has a cycle of length 18 False
+
+286 has a cycle of length 6 False
+
+287 has a cycle of length 30 False
+
+288 has a cycle of length 1 False
+
+289 has a cycle of length 272 False
+
+290 has a cycle of length 28 False
+
+291 has a cycle of length 96 False
+
+292 has a cycle of length 8 False
+
+293 has a cycle of length 146 True
+
+294 has a cycle of length 42 False
+
+295 has a cycle of length 58 False
+
+296 has a cycle of length 3 False
+
+297 has a cycle of length 6 False
+
+298 has a cycle of length 148 False
+
+299 has a cycle of length 66 False
+
+300 has a cycle of length 1 False
+
+301 has a cycle of length 42 False
+
+302 has a cycle of length 75 False
+
+303 has a cycle of length 4 False
+
+304 has a cycle of length 18 False
+
+305 has a cycle of length 60 False
+
+306 has a cycle of length 16 False
+
+307 has a cycle of length 153 True
+
+308 has a cycle of length 6 False
+
+309 has a cycle of length 34 False
+
+310 has a cycle of length 15 False
+
+311 has a cycle of length 155 True
+
+312 has a cycle of length 6 False
+
+313 has a cycle of length 312 True
+
+314 has a cycle of length 78 False
+
+315 has a cycle of length 6 False
+
+316 has a cycle of length 13 False
+
+317 has a cycle of length 79 True
+
+318 has a cycle of length 13 False
+
+319 has a cycle of length 28 False
+
+321 has a cycle of length 53 False
+
+322 has a cycle of length 66 False
+
+323 has a cycle of length 144 False
+
+324 has a cycle of length 9 False
+
+325 has a cycle of length 6 False
+
+326 has a cycle of length 81 False
+
+327 has a cycle of length 108 False
+
+328 has a cycle of length 5 False
+
+329 has a cycle of length 138 False
+
+330 has a cycle of length 2 False
+
+331 has a cycle of length 110 True
+
+332 has a cycle of length 41 False
+
+333 has a cycle of length 3 False
+
+334 has a cycle of length 166 False
+
+335 has a cycle of length 33 False
+
+336 has a cycle of length 6 False
+
+337 has a cycle of length 336 True
+
+338 has a cycle of length 78 False
+
+339 has a cycle of length 112 False
+
+340 has a cycle of length 16 False
+
+341 has a cycle of length 30 False
+
+342 has a cycle of length 18 False
+
+343 has a cycle of length 294 False
+
+344 has a cycle of length 21 False
+
+345 has a cycle of length 22 False
+
+346 has a cycle of length 43 False
+
+347 has a cycle of length 173 True
+
+348 has a cycle of length 28 False
+
+349 has a cycle of length 116 True
+
+350 has a cycle of length 6 False
+
+351 has a cycle of length 6 False
+
+352 has a cycle of length 2 False
+
+353 has a cycle of length 32 True
+
+354 has a cycle of length 58 False
+
+355 has a cycle of length 35 False
+
+356 has a cycle of length 44 False
+
+357 has a cycle of length 48 False
+
+358 has a cycle of length 178 False
+
+359 has a cycle of length 179 True
+
+360 has a cycle of length 1 False
+
+361 has a cycle of length 342 False
+
+362 has a cycle of length 180 False
+
+363 has a cycle of length 22 False
+
+364 has a cycle of length 6 False
+
+365 has a cycle of length 8 False
+
+366 has a cycle of length 60 False
+
+367 has a cycle of length 366 True
+
+368 has a cycle of length 22 False
+
+369 has a cycle of length 5 False
+
+370 has a cycle of length 3 False
+
+371 has a cycle of length 78 False
+
+372 has a cycle of length 15 False
+
+373 has a cycle of length 186 True
+
+374 has a cycle of length 16 False
+
+375 has a cycle of length 1 False
+
+376 has a cycle of length 46 False
+
+377 has a cycle of length 84 False
+
+378 has a cycle of length 6 False
+
+379 has a cycle of length 378 True
+
+380 has a cycle of length 18 False
+
+381 has a cycle of length 42 False
+
+382 has a cycle of length 95 False
+
+383 has a cycle of length 382 True
+
+384 has a cycle of length 1 False
+
+385 has a cycle of length 6 False
+
+386 has a cycle of length 192 False
+
+387 has a cycle of length 21 False
+
+388 has a cycle of length 96 False
+
+389 has a cycle of length 388 True
+
+390 has a cycle of length 6 False
+
+391 has a cycle of length 176 False
+
+392 has a cycle of length 42 False
+
+393 has a cycle of length 130 False
+
+394 has a cycle of length 98 False
+
+395 has a cycle of length 13 False
+
+396 has a cycle of length 2 False
+
+397 has a cycle of length 99 True
+
+398 has a cycle of length 99 False
+
+399 has a cycle of length 18 False
+
+401 has a cycle of length 200 True
+
+402 has a cycle of length 33 False
+
+403 has a cycle of length 30 False
+
+404 has a cycle of length 4 False
+
+405 has a cycle of length 9 False
+
+406 has a cycle of length 84 False
+
+407 has a cycle of length 6 False
+
+408 has a cycle of length 16 False
+
+409 has a cycle of length 204 True
+
+410 has a cycle of length 5 False
+
+411 has a cycle of length 8 False
+
+412 has a cycle of length 34 False
+
+413 has a cycle of length 174 False
+
+414 has a cycle of length 22 False
+
+415 has a cycle of length 41 False
+
+416 has a cycle of length 6 False
+
+417 has a cycle of length 46 False
+
+418 has a cycle of length 18 False
+
+419 has a cycle of length 418 True
+
+420 has a cycle of length 6 False
+
+421 has a cycle of length 140 True
+
+422 has a cycle of length 30 False
+
+423 has a cycle of length 46 False
+
+424 has a cycle of length 13 False
+
+425 has a cycle of length 16 False
+
+426 has a cycle of length 35 False
+
+427 has a cycle of length 60 False
+
+428 has a cycle of length 53 False
+
+429 has a cycle of length 6 False
+
+430 has a cycle of length 21 False
+
+431 has a cycle of length 215 True
+
+432 has a cycle of length 3 False
+
+433 has a cycle of length 432 True
+
+434 has a cycle of length 30 False
+
+435 has a cycle of length 28 False
+
+436 has a cycle of length 108 False
+
+437 has a cycle of length 198 False
+
+438 has a cycle of length 8 False
+
+439 has a cycle of length 219 True
+
+440 has a cycle of length 2 False
+
+441 has a cycle of length 42 False
+
+442 has a cycle of length 48 False
+
+443 has a cycle of length 221 True
+
+444 has a cycle of length 3 False
+
+445 has a cycle of length 44 False
+
+446 has a cycle of length 222 False
+
+447 has a cycle of length 148 False
+
+448 has a cycle of length 6 False
+
+449 has a cycle of length 32 True
+
+450 has a cycle of length 1 False
+
+451 has a cycle of length 10 False
+
+452 has a cycle of length 112 False
+
+453 has a cycle of length 75 False
+
+454 has a cycle of length 113 False
+
+455 has a cycle of length 6 False
+
+456 has a cycle of length 18 False
+
+457 has a cycle of length 152 True
+
+458 has a cycle of length 228 False
+
+459 has a cycle of length 48 False
+
+460 has a cycle of length 22 False
+
+461 has a cycle of length 460 True
+
+462 has a cycle of length 6 False
+
+463 has a cycle of length 154 True
+
+464 has a cycle of length 28 False
+
+465 has a cycle of length 15 False
+
+466 has a cycle of length 232 False
+
+467 has a cycle of length 233 True
+
+468 has a cycle of length 6 False
+
+469 has a cycle of length 66 False
+
+470 has a cycle of length 46 False
+
+471 has a cycle of length 78 False
+
+472 has a cycle of length 58 False
+
+473 has a cycle of length 42 False
+
+474 has a cycle of length 13 False
+
+475 has a cycle of length 18 False
+
+476 has a cycle of length 48 False
+
+477 has a cycle of length 13 False
+
+478 has a cycle of length 7 False
+
+479 has a cycle of length 239 True
+
+480 has a cycle of length 1 False
+
+481 has a cycle of length 6 False
+
+482 has a cycle of length 30 False
+
+483 has a cycle of length 66 False
+
+484 has a cycle of length 22 False
+
+485 has a cycle of length 96 False
+
+486 has a cycle of length 27 False
+
+487 has a cycle of length 486 True
+
+488 has a cycle of length 60 False
+
+489 has a cycle of length 81 False
+
+490 has a cycle of length 42 False
+
+491 has a cycle of length 490 True
+
+492 has a cycle of length 5 False
+
+493 has a cycle of length 112 False
+
+494 has a cycle of length 18 False
+
+495 has a cycle of length 2 False
+
+496 has a cycle of length 15 False
+
+497 has a cycle of length 210 False
+
+498 has a cycle of length 41 False
+
+499 has a cycle of length 498 True
+
+501 has a cycle of length 166 False
+
+502 has a cycle of length 50 False
+
+503 has a cycle of length 502 True
+
+504 has a cycle of length 6 False
+
+505 has a cycle of length 4 False
+
+506 has a cycle of length 22 False
+
+507 has a cycle of length 78 False
+
+508 has a cycle of length 42 False
+
+509 has a cycle of length 508 True
+
+510 has a cycle of length 16 False
+
+511 has a cycle of length 24 False
+
+513 has a cycle of length 18 False
+
+514 has a cycle of length 256 False
+
+515 has a cycle of length 34 False
+
+516 has a cycle of length 21 False
+
+517 has a cycle of length 46 False
+
+518 has a cycle of length 6 False
+
+519 has a cycle of length 43 False
+
+520 has a cycle of length 6 False
+
+521 has a cycle of length 52 True
+
+522 has a cycle of length 28 False
+
+523 has a cycle of length 261 True
+
+524 has a cycle of length 130 False
+
+525 has a cycle of length 6 False
+
+526 has a cycle of length 262 False
+
+527 has a cycle of length 240 False
+
+528 has a cycle of length 2 False
+
+529 has a cycle of length 506 False
+
+530 has a cycle of length 13 False
+
+531 has a cycle of length 58 False
+
+532 has a cycle of length 18 False
+
+533 has a cycle of length 30 False
+
+534 has a cycle of length 44 False
+
+535 has a cycle of length 53 False
+
+536 has a cycle of length 33 False
+
+537 has a cycle of length 178 False
+
+538 has a cycle of length 268 False
+
+539 has a cycle of length 42 False
+
+540 has a cycle of length 3 False
+
+541 has a cycle of length 540 True
+
+542 has a cycle of length 5 False
+
+543 has a cycle of length 180 False
+
+544 has a cycle of length 16 False
+
+545 has a cycle of length 108 False
+
+546 has a cycle of length 6 False
+
+547 has a cycle of length 91 True
+
+548 has a cycle of length 8 False
+
+549 has a cycle of length 60 False
+
+550 has a cycle of length 2 False
+
+551 has a cycle of length 252 False
+
+552 has a cycle of length 22 False
+
+553 has a cycle of length 78 False
+
+554 has a cycle of length 69 False
+
+555 has a cycle of length 3 False
+
+556 has a cycle of length 46 False
+
+557 has a cycle of length 278 True
+
+558 has a cycle of length 15 False
+
+559 has a cycle of length 42 False
+
+560 has a cycle of length 6 False
+
+561 has a cycle of length 16 False
+
+562 has a cycle of length 28 False
+
+563 has a cycle of length 281 True
+
+564 has a cycle of length 46 False
+
+565 has a cycle of length 112 False
+
+566 has a cycle of length 141 False
+
+567 has a cycle of length 18 False
+
+568 has a cycle of length 35 False
+
+569 has a cycle of length 284 True
+
+570 has a cycle of length 18 False
+
+571 has a cycle of length 570 True
+
+572 has a cycle of length 6 False
+
+573 has a cycle of length 95 False
+
+574 has a cycle of length 30 False
+
+575 has a cycle of length 22 False
+
+576 has a cycle of length 1 False
+
+577 has a cycle of length 576 True
+
+578 has a cycle of length 272 False
+
+579 has a cycle of length 192 False
+
+580 has a cycle of length 28 False
+
+581 has a cycle of length 246 False
+
+582 has a cycle of length 96 False
+
+583 has a cycle of length 26 False
+
+584 has a cycle of length 8 False
+
+585 has a cycle of length 6 False
+
+586 has a cycle of length 146 False
+
+587 has a cycle of length 293 True
+
+588 has a cycle of length 42 False
+
+589 has a cycle of length 90 False
+
+590 has a cycle of length 58 False
+
+591 has a cycle of length 98 False
+
+592 has a cycle of length 3 False
+
+593 has a cycle of length 592 True
+
+594 has a cycle of length 6 False
+
+595 has a cycle of length 48 False
+
+596 has a cycle of length 148 False
+
+597 has a cycle of length 99 False
+
+598 has a cycle of length 66 False
+
+599 has a cycle of length 299 True
+
+600 has a cycle of length 1 False
+
+601 has a cycle of length 300 True
+
+602 has a cycle of length 42 False
+
+603 has a cycle of length 33 False
+
+604 has a cycle of length 75 False
+
+605 has a cycle of length 22 False
+
+606 has a cycle of length 4 False
+
+607 has a cycle of length 202 True
+
+608 has a cycle of length 18 False
+
+609 has a cycle of length 84 False
+
+610 has a cycle of length 60 False
+
+611 has a cycle of length 138 False
+
+612 has a cycle of length 16 False
+
+613 has a cycle of length 51 True
+
+614 has a cycle of length 153 False
+
+615 has a cycle of length 5 False
+
+616 has a cycle of length 6 False
+
+617 has a cycle of length 88 True
+
+618 has a cycle of length 34 False
+
+619 has a cycle of length 618 True
+
+620 has a cycle of length 15 False
+
+621 has a cycle of length 66 False
+
+622 has a cycle of length 155 False
+
+623 has a cycle of length 132 False
+
+624 has a cycle of length 6 False
+
+626 has a cycle of length 312 False
+
+627 has a cycle of length 18 False
+
+628 has a cycle of length 78 False
+
+629 has a cycle of length 48 False
+
+630 has a cycle of length 6 False
+
+631 has a cycle of length 315 True
+
+632 has a cycle of length 13 False
+
+633 has a cycle of length 30 False
+
+634 has a cycle of length 79 False
+
+635 has a cycle of length 42 False
+
+636 has a cycle of length 13 False
+
+637 has a cycle of length 42 False
+
+638 has a cycle of length 28 False
+
+639 has a cycle of length 35 False
+
+641 has a cycle of length 32 True
+
+642 has a cycle of length 53 False
+
+643 has a cycle of length 107 True
+
+644 has a cycle of length 66 False
+
+645 has a cycle of length 21 False
+
+646 has a cycle of length 144 False
+
+647 has a cycle of length 646 True
+
+648 has a cycle of length 9 False
+
+649 has a cycle of length 58 False
+
+650 has a cycle of length 6 False
+
+651 has a cycle of length 30 False
+
+652 has a cycle of length 81 False
+
+653 has a cycle of length 326 True
+
+654 has a cycle of length 108 False
+
+655 has a cycle of length 130 False
+
+656 has a cycle of length 5 False
+
+657 has a cycle of length 8 False
+
+658 has a cycle of length 138 False
+
+659 has a cycle of length 658 True
+
+660 has a cycle of length 2 False
+
+661 has a cycle of length 220 True
+
+662 has a cycle of length 110 False
+
+663 has a cycle of length 48 False
+
+664 has a cycle of length 41 False
+
+665 has a cycle of length 18 False
+
+666 has a cycle of length 3 False
+
+667 has a cycle of length 308 False
+
+668 has a cycle of length 166 False
+
+669 has a cycle of length 222 False
+
+670 has a cycle of length 33 False
+
+671 has a cycle of length 60 False
+
+672 has a cycle of length 6 False
+
+673 has a cycle of length 224 True
+
+674 has a cycle of length 336 False
+
+675 has a cycle of length 3 False
+
+676 has a cycle of length 78 False
+
+677 has a cycle of length 338 True
+
+678 has a cycle of length 112 False
+
+679 has a cycle of length 96 False
+
+680 has a cycle of length 16 False
+
+681 has a cycle of length 113 False
+
+682 has a cycle of length 30 False
+
+683 has a cycle of length 341 True
+
+684 has a cycle of length 18 False
+
+685 has a cycle of length 8 False
+
+686 has a cycle of length 294 False
+
+687 has a cycle of length 228 False
+
+688 has a cycle of length 21 False
+
+689 has a cycle of length 78 False
+
+690 has a cycle of length 22 False
+
+691 has a cycle of length 230 True
+
+692 has a cycle of length 43 False
+
+693 has a cycle of length 6 False
+
+694 has a cycle of length 173 False
+
+695 has a cycle of length 46 False
+
+696 has a cycle of length 28 False
+
+697 has a cycle of length 80 False
+
+698 has a cycle of length 116 False
+
+699 has a cycle of length 232 False
+
+700 has a cycle of length 6 False
+
+701 has a cycle of length 700 True
+
+702 has a cycle of length 6 False
+
+703 has a cycle of length 18 False
+
+704 has a cycle of length 2 False
+
+705 has a cycle of length 46 False
+
+706 has a cycle of length 32 False
+
+707 has a cycle of length 12 False
+
+708 has a cycle of length 58 False
+
+709 has a cycle of length 708 True
+
+710 has a cycle of length 35 False
+
+711 has a cycle of length 13 False
+
+712 has a cycle of length 44 False
+
+713 has a cycle of length 330 False
+
+714 has a cycle of length 48 False
+
+715 has a cycle of length 6 False
+
+716 has a cycle of length 178 False
+
+717 has a cycle of length 7 False
+
+718 has a cycle of length 179 False
+
+719 has a cycle of length 359 True
+
+720 has a cycle of length 1 False
+
+721 has a cycle of length 102 False
+
+722 has a cycle of length 342 False
+
+723 has a cycle of length 30 False
+
+724 has a cycle of length 180 False
+
+725 has a cycle of length 28 False
+
+726 has a cycle of length 22 False
+
+727 has a cycle of length 726 True
+
+728 has a cycle of length 6 False
+
+729 has a cycle of length 81 False
+
+730 has a cycle of length 8 False
+
+731 has a cycle of length 336 False
+
+732 has a cycle of length 60 False
+
+733 has a cycle of length 61 True
+
+734 has a cycle of length 366 False
+
+735 has a cycle of length 42 False
+
+736 has a cycle of length 22 False
+
+737 has a cycle of length 66 False
+
+738 has a cycle of length 5 False
+
+739 has a cycle of length 246 True
+
+740 has a cycle of length 3 False
+
+741 has a cycle of length 18 False
+
+742 has a cycle of length 78 False
+
+743 has a cycle of length 742 True
+
+744 has a cycle of length 15 False
+
+745 has a cycle of length 148 False
+
+746 has a cycle of length 186 False
+
+747 has a cycle of length 41 False
+
+748 has a cycle of length 16 False
+
+749 has a cycle of length 318 False
+
+750 has a cycle of length 1 False
+
+751 has a cycle of length 125 True
+
+752 has a cycle of length 46 False
+
+753 has a cycle of length 50 False
+
+754 has a cycle of length 84 False
+
+755 has a cycle of length 75 False
+
+756 has a cycle of length 6 False
+
+757 has a cycle of length 27 True
+
+758 has a cycle of length 378 False
+
+759 has a cycle of length 22 False
+
+760 has a cycle of length 18 False
+
+761 has a cycle of length 380 True
+
+762 has a cycle of length 42 False
+
+763 has a cycle of length 108 False
+
+764 has a cycle of length 95 False
+
+765 has a cycle of length 16 False
+
+766 has a cycle of length 382 False
+
+767 has a cycle of length 174 False
+
+768 has a cycle of length 1 False
+
+769 has a cycle of length 192 True
+
+770 has a cycle of length 6 False
+
+771 has a cycle of length 256 False
+
+772 has a cycle of length 192 False
+
+773 has a cycle of length 193 True
+
+774 has a cycle of length 21 False
+
+775 has a cycle of length 15 False
+
+776 has a cycle of length 96 False
+
+777 has a cycle of length 6 False
+
+778 has a cycle of length 388 False
+
+779 has a cycle of length 90 False
+
+780 has a cycle of length 6 False
+
+781 has a cycle of length 70 False
+
+782 has a cycle of length 176 False
+
+783 has a cycle of length 84 False
+
+784 has a cycle of length 42 False
+
+785 has a cycle of length 78 False
+
+786 has a cycle of length 130 False
+
+787 has a cycle of length 393 True
+
+788 has a cycle of length 98 False
+
+789 has a cycle of length 262 False
+
+790 has a cycle of length 13 False
+
+791 has a cycle of length 336 False
+
+792 has a cycle of length 2 False
+
+793 has a cycle of length 60 False
+
+794 has a cycle of length 99 False
+
+795 has a cycle of length 13 False
+
+796 has a cycle of length 99 False
+
+797 has a cycle of length 199 True
+
+798 has a cycle of length 18 False
+
+799 has a cycle of length 368 False
+
+801 has a cycle of length 44 False
+
+802 has a cycle of length 200 False
+
+803 has a cycle of length 8 False
+
+804 has a cycle of length 33 False
+
+805 has a cycle of length 66 False
+
+806 has a cycle of length 30 False
+
+807 has a cycle of length 268 False
+
+808 has a cycle of length 4 False
+
+809 has a cycle of length 202 True
+
+810 has a cycle of length 9 False
+
+811 has a cycle of length 810 True
+
+812 has a cycle of length 84 False
+
+813 has a cycle of length 5 False
+
+814 has a cycle of length 6 False
+
+815 has a cycle of length 81 False
+
+816 has a cycle of length 16 False
+
+817 has a cycle of length 126 False
+
+818 has a cycle of length 204 False
+
+819 has a cycle of length 6 False
+
+820 has a cycle of length 5 False
+
+821 has a cycle of length 820 True
+
+822 has a cycle of length 8 False
+
+823 has a cycle of length 822 True
+
+824 has a cycle of length 34 False
+
+825 has a cycle of length 2 False
+
+826 has a cycle of length 174 False
+
+827 has a cycle of length 413 True
+
+828 has a cycle of length 22 False
+
+829 has a cycle of length 276 True
+
+830 has a cycle of length 41 False
+
+831 has a cycle of length 69 False
+
+832 has a cycle of length 6 False
+
+833 has a cycle of length 336 False
+
+834 has a cycle of length 46 False
+
+835 has a cycle of length 166 False
+
+836 has a cycle of length 18 False
+
+837 has a cycle of length 15 False
+
+838 has a cycle of length 418 False
+
+839 has a cycle of length 419 True
+
+840 has a cycle of length 6 False
+
+841 has a cycle of length 812 False
+
+842 has a cycle of length 140 False
+
+843 has a cycle of length 28 False
+
+844 has a cycle of length 30 False
+
+845 has a cycle of length 78 False
+
+846 has a cycle of length 46 False
+
+847 has a cycle of length 66 False
+
+848 has a cycle of length 13 False
+
+849 has a cycle of length 141 False
+
+850 has a cycle of length 16 False
+
+851 has a cycle of length 66 False
+
+852 has a cycle of length 35 False
+
+853 has a cycle of length 213 True
+
+854 has a cycle of length 60 False
+
+855 has a cycle of length 18 False
+
+856 has a cycle of length 53 False
+
+857 has a cycle of length 856 True
+
+858 has a cycle of length 6 False
+
+859 has a cycle of length 26 True
+
+860 has a cycle of length 21 False
+
+861 has a cycle of length 30 False
+
+862 has a cycle of length 215 False
+
+863 has a cycle of length 862 True
+
+864 has a cycle of length 3 False
+
+865 has a cycle of length 43 False
+
+866 has a cycle of length 432 False
+
+867 has a cycle of length 272 False
+
+868 has a cycle of length 30 False
+
+869 has a cycle of length 26 False
+
+870 has a cycle of length 28 False
+
+871 has a cycle of length 66 False
+
+872 has a cycle of length 108 False
+
+873 has a cycle of length 96 False
+
+874 has a cycle of length 198 False
+
+875 has a cycle of length 6 False
+
+876 has a cycle of length 8 False
+
+877 has a cycle of length 438 True
+
+878 has a cycle of length 219 False
+
+879 has a cycle of length 146 False
+
+880 has a cycle of length 2 False
+
+881 has a cycle of length 440 True
+
+882 has a cycle of length 42 False
+
+883 has a cycle of length 441 True
+
+884 has a cycle of length 48 False
+
+885 has a cycle of length 58 False
+
+886 has a cycle of length 221 False
+
+887 has a cycle of length 886 True
+
+888 has a cycle of length 3 False
+
+889 has a cycle of length 42 False
+
+890 has a cycle of length 44 False
+
+891 has a cycle of length 18 False
+
+892 has a cycle of length 222 False
+
+893 has a cycle of length 414 False
+
+894 has a cycle of length 148 False
+
+895 has a cycle of length 178 False
+
+896 has a cycle of length 6 False
+
+897 has a cycle of length 66 False
+
+898 has a cycle of length 32 False
+
+899 has a cycle of length 420 False
+
+900 has a cycle of length 1 False
+
+901 has a cycle of length 208 False
+
+902 has a cycle of length 10 False
+
+903 has a cycle of length 42 False
+
+904 has a cycle of length 112 False
+
+905 has a cycle of length 180 False
+
+906 has a cycle of length 75 False
+
+907 has a cycle of length 151 True
+
+908 has a cycle of length 113 False
+
+909 has a cycle of length 4 False
+
+910 has a cycle of length 6 False
+
+911 has a cycle of length 455 True
+
+912 has a cycle of length 18 False
+
+913 has a cycle of length 82 False
+
+914 has a cycle of length 152 False
+
+915 has a cycle of length 60 False
+
+916 has a cycle of length 228 False
+
+917 has a cycle of length 390 False
+
+918 has a cycle of length 48 False
+
+919 has a cycle of length 459 True
+
+920 has a cycle of length 22 False
+
+921 has a cycle of length 153 False
+
+922 has a cycle of length 460 False
+
+923 has a cycle of length 210 False
+
+924 has a cycle of length 6 False
+
+925 has a cycle of length 3 False
+
+926 has a cycle of length 154 False
+
+927 has a cycle of length 34 False
+
+928 has a cycle of length 28 False
+
+929 has a cycle of length 464 True
+
+930 has a cycle of length 15 False
+
+931 has a cycle of length 126 False
+
+932 has a cycle of length 232 False
+
+933 has a cycle of length 155 False
+
+934 has a cycle of length 233 False
+
+935 has a cycle of length 16 False
+
+936 has a cycle of length 6 False
+
+937 has a cycle of length 936 True
+
+938 has a cycle of length 66 False
+
+939 has a cycle of length 312 False
+
+940 has a cycle of length 46 False
+
+941 has a cycle of length 940 True
+
+942 has a cycle of length 78 False
+
+943 has a cycle of length 110 False
+
+944 has a cycle of length 58 False
+
+945 has a cycle of length 6 False
+
+946 has a cycle of length 42 False
+
+947 has a cycle of length 473 True
+
+948 has a cycle of length 13 False
+
+949 has a cycle of length 24 False
+
+950 has a cycle of length 18 False
+
+951 has a cycle of length 79 False
+
+952 has a cycle of length 48 False
+
+953 has a cycle of length 952 True
+
+954 has a cycle of length 13 False
+
+955 has a cycle of length 95 False
+
+956 has a cycle of length 7 False
+
+957 has a cycle of length 28 False
+
+958 has a cycle of length 239 False
+
+959 has a cycle of length 24 False
+
+960 has a cycle of length 1 False
+
+961 has a cycle of length 465 False
+
+962 has a cycle of length 6 False
+
+963 has a cycle of length 53 False
+
+964 has a cycle of length 30 False
+
+965 has a cycle of length 192 False
+
+966 has a cycle of length 66 False
+
+967 has a cycle of length 322 True
+
+968 has a cycle of length 22 False
+
+969 has a cycle of length 144 False
+
+970 has a cycle of length 96 False
+
+971 has a cycle of length 970 True
+
+972 has a cycle of length 27 False
+
+973 has a cycle of length 138 False
+
+974 has a cycle of length 486 False
+
+975 has a cycle of length 6 False
+
+976 has a cycle of length 60 False
+
+977 has a cycle of length 976 True
+
+978 has a cycle of length 81 False
+
+979 has a cycle of length 44 False
+
+980 has a cycle of length 42 False
+
+981 has a cycle of length 108 False
+
+982 has a cycle of length 490 False
+
+983 has a cycle of length 982 True
+
+984 has a cycle of length 5 False
+
+985 has a cycle of length 98 False
+
+986 has a cycle of length 112 False
+
+987 has a cycle of length 138 False
+
+988 has a cycle of length 18 False
+
+989 has a cycle of length 462 False
+
+990 has a cycle of length 2 False
+
+991 has a cycle of length 495 True
+
+992 has a cycle of length 15 False
+
+993 has a cycle of length 110 False
+
+994 has a cycle of length 210 False
+
+995 has a cycle of length 99 False
+
+996 has a cycle of length 41 False
+
+997 has a cycle of length 166 True
+
+998 has a cycle of length 498 False
+
+999 has a cycle of length 3 False
+
+The longest cycle is of length 982 and belongs to the inverse of 983

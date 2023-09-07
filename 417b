@@ -1,0 +1,668 @@
+3 has a cycle of length 1
+
+7 has a cycle of length 6
+
+11 has a cycle of length 2
+
+13 has a cycle of length 6
+
+17 has a cycle of length 16
+
+19 has a cycle of length 18
+
+23 has a cycle of length 22
+
+29 has a cycle of length 28
+
+31 has a cycle of length 15
+
+37 has a cycle of length 3
+
+41 has a cycle of length 5
+
+43 has a cycle of length 21
+
+47 has a cycle of length 46
+
+53 has a cycle of length 13
+
+59 has a cycle of length 58
+
+61 has a cycle of length 60
+
+67 has a cycle of length 33
+
+71 has a cycle of length 35
+
+73 has a cycle of length 8
+
+79 has a cycle of length 13
+
+83 has a cycle of length 41
+
+89 has a cycle of length 44
+
+97 has a cycle of length 96
+
+101 has a cycle of length 4
+
+103 has a cycle of length 34
+
+107 has a cycle of length 53
+
+109 has a cycle of length 108
+
+113 has a cycle of length 112
+
+127 has a cycle of length 42
+
+131 has a cycle of length 130
+
+137 has a cycle of length 8
+
+139 has a cycle of length 46
+
+149 has a cycle of length 148
+
+151 has a cycle of length 75
+
+157 has a cycle of length 78
+
+163 has a cycle of length 81
+
+167 has a cycle of length 166
+
+173 has a cycle of length 43
+
+179 has a cycle of length 178
+
+181 has a cycle of length 180
+
+191 has a cycle of length 95
+
+193 has a cycle of length 192
+
+197 has a cycle of length 98
+
+199 has a cycle of length 99
+
+211 has a cycle of length 30
+
+223 has a cycle of length 222
+
+227 has a cycle of length 113
+
+229 has a cycle of length 228
+
+233 has a cycle of length 232
+
+239 has a cycle of length 7
+
+241 has a cycle of length 30
+
+251 has a cycle of length 50
+
+257 has a cycle of length 256
+
+263 has a cycle of length 262
+
+269 has a cycle of length 268
+
+271 has a cycle of length 5
+
+277 has a cycle of length 69
+
+281 has a cycle of length 28
+
+283 has a cycle of length 141
+
+293 has a cycle of length 146
+
+307 has a cycle of length 153
+
+311 has a cycle of length 155
+
+313 has a cycle of length 312
+
+317 has a cycle of length 79
+
+331 has a cycle of length 110
+
+337 has a cycle of length 336
+
+347 has a cycle of length 173
+
+349 has a cycle of length 116
+
+353 has a cycle of length 32
+
+359 has a cycle of length 179
+
+367 has a cycle of length 366
+
+373 has a cycle of length 186
+
+379 has a cycle of length 378
+
+383 has a cycle of length 382
+
+389 has a cycle of length 388
+
+397 has a cycle of length 99
+
+401 has a cycle of length 200
+
+409 has a cycle of length 204
+
+419 has a cycle of length 418
+
+421 has a cycle of length 140
+
+431 has a cycle of length 215
+
+433 has a cycle of length 432
+
+439 has a cycle of length 219
+
+443 has a cycle of length 221
+
+449 has a cycle of length 32
+
+457 has a cycle of length 152
+
+461 has a cycle of length 460
+
+463 has a cycle of length 154
+
+467 has a cycle of length 233
+
+479 has a cycle of length 239
+
+487 has a cycle of length 486
+
+491 has a cycle of length 490
+
+499 has a cycle of length 498
+
+503 has a cycle of length 502
+
+509 has a cycle of length 508
+
+521 has a cycle of length 52
+
+523 has a cycle of length 261
+
+541 has a cycle of length 540
+
+547 has a cycle of length 91
+
+557 has a cycle of length 278
+
+563 has a cycle of length 281
+
+569 has a cycle of length 284
+
+571 has a cycle of length 570
+
+577 has a cycle of length 576
+
+587 has a cycle of length 293
+
+593 has a cycle of length 592
+
+599 has a cycle of length 299
+
+601 has a cycle of length 300
+
+607 has a cycle of length 202
+
+613 has a cycle of length 51
+
+617 has a cycle of length 88
+
+619 has a cycle of length 618
+
+631 has a cycle of length 315
+
+641 has a cycle of length 32
+
+643 has a cycle of length 107
+
+647 has a cycle of length 646
+
+653 has a cycle of length 326
+
+659 has a cycle of length 658
+
+661 has a cycle of length 220
+
+673 has a cycle of length 224
+
+677 has a cycle of length 338
+
+683 has a cycle of length 341
+
+691 has a cycle of length 230
+
+701 has a cycle of length 700
+
+709 has a cycle of length 708
+
+719 has a cycle of length 359
+
+727 has a cycle of length 726
+
+733 has a cycle of length 61
+
+739 has a cycle of length 246
+
+743 has a cycle of length 742
+
+751 has a cycle of length 125
+
+757 has a cycle of length 27
+
+761 has a cycle of length 380
+
+769 has a cycle of length 192
+
+773 has a cycle of length 193
+
+787 has a cycle of length 393
+
+797 has a cycle of length 199
+
+809 has a cycle of length 202
+
+811 has a cycle of length 810
+
+821 has a cycle of length 820
+
+823 has a cycle of length 822
+
+827 has a cycle of length 413
+
+829 has a cycle of length 276
+
+839 has a cycle of length 419
+
+853 has a cycle of length 213
+
+857 has a cycle of length 856
+
+859 has a cycle of length 26
+
+863 has a cycle of length 862
+
+877 has a cycle of length 438
+
+881 has a cycle of length 440
+
+883 has a cycle of length 441
+
+887 has a cycle of length 886
+
+907 has a cycle of length 151
+
+911 has a cycle of length 455
+
+919 has a cycle of length 459
+
+929 has a cycle of length 464
+
+937 has a cycle of length 936
+
+941 has a cycle of length 940
+
+947 has a cycle of length 473
+
+953 has a cycle of length 952
+
+967 has a cycle of length 322
+
+971 has a cycle of length 970
+
+977 has a cycle of length 976
+
+983 has a cycle of length 982
+
+991 has a cycle of length 495
+
+997 has a cycle of length 166
+
+1009 has a cycle of length 252
+
+1013 has a cycle of length 253
+
+1019 has a cycle of length 1018
+
+1021 has a cycle of length 1020
+
+1031 has a cycle of length 103
+
+1033 has a cycle of length 1032
+
+1039 has a cycle of length 519
+
+1049 has a cycle of length 524
+
+1051 has a cycle of length 1050
+
+1061 has a cycle of length 212
+
+1063 has a cycle of length 1062
+
+1069 has a cycle of length 1068
+
+1087 has a cycle of length 1086
+
+1091 has a cycle of length 1090
+
+1093 has a cycle of length 273
+
+1097 has a cycle of length 1096
+
+1103 has a cycle of length 1102
+
+1109 has a cycle of length 1108
+
+1117 has a cycle of length 558
+
+1123 has a cycle of length 561
+
+1129 has a cycle of length 564
+
+1151 has a cycle of length 575
+
+1153 has a cycle of length 1152
+
+1163 has a cycle of length 581
+
+1171 has a cycle of length 1170
+
+1181 has a cycle of length 1180
+
+1187 has a cycle of length 593
+
+1193 has a cycle of length 1192
+
+1201 has a cycle of length 200
+
+1213 has a cycle of length 202
+
+1217 has a cycle of length 1216
+
+1223 has a cycle of length 1222
+
+1229 has a cycle of length 1228
+
+1231 has a cycle of length 41
+
+1237 has a cycle of length 206
+
+1249 has a cycle of length 208
+
+1259 has a cycle of length 1258
+
+1277 has a cycle of length 638
+
+1279 has a cycle of length 639
+
+1283 has a cycle of length 641
+
+1289 has a cycle of length 92
+
+1291 has a cycle of length 1290
+
+1297 has a cycle of length 1296
+
+1301 has a cycle of length 1300
+
+1303 has a cycle of length 1302
+
+1307 has a cycle of length 653
+
+1319 has a cycle of length 659
+
+1321 has a cycle of length 55
+
+1327 has a cycle of length 1326
+
+1361 has a cycle of length 680
+
+1367 has a cycle of length 1366
+
+1373 has a cycle of length 686
+
+1381 has a cycle of length 1380
+
+1399 has a cycle of length 699
+
+1409 has a cycle of length 32
+
+1423 has a cycle of length 158
+
+1427 has a cycle of length 713
+
+1429 has a cycle of length 1428
+
+1433 has a cycle of length 1432
+
+1439 has a cycle of length 719
+
+1447 has a cycle of length 1446
+
+1451 has a cycle of length 290
+
+1453 has a cycle of length 726
+
+1459 has a cycle of length 162
+
+1471 has a cycle of length 735
+
+1481 has a cycle of length 740
+
+1483 has a cycle of length 247
+
+1487 has a cycle of length 1486
+
+1489 has a cycle of length 248
+
+1493 has a cycle of length 373
+
+1499 has a cycle of length 214
+
+1511 has a cycle of length 755
+
+1523 has a cycle of length 761
+
+1531 has a cycle of length 1530
+
+1543 has a cycle of length 1542
+
+1549 has a cycle of length 1548
+
+1553 has a cycle of length 1552
+
+1559 has a cycle of length 779
+
+1567 has a cycle of length 1566
+
+1571 has a cycle of length 1570
+
+1579 has a cycle of length 1578
+
+1583 has a cycle of length 1582
+
+1597 has a cycle of length 133
+
+1601 has a cycle of length 200
+
+1607 has a cycle of length 1606
+
+1609 has a cycle of length 201
+
+1613 has a cycle of length 403
+
+1619 has a cycle of length 1618
+
+1621 has a cycle of length 1620
+
+1627 has a cycle of length 271
+
+1637 has a cycle of length 409
+
+1657 has a cycle of length 552
+
+1663 has a cycle of length 1662
+
+1667 has a cycle of length 833
+
+1669 has a cycle of length 556
+
+1693 has a cycle of length 423
+
+1697 has a cycle of length 1696
+
+1699 has a cycle of length 566
+
+1709 has a cycle of length 1708
+
+1721 has a cycle of length 430
+
+1723 has a cycle of length 287
+
+1733 has a cycle of length 866
+
+1741 has a cycle of length 1740
+
+1747 has a cycle of length 291
+
+1753 has a cycle of length 584
+
+1759 has a cycle of length 879
+
+1777 has a cycle of length 1776
+
+1783 has a cycle of length 1782
+
+1787 has a cycle of length 893
+
+1789 has a cycle of length 1788
+
+1801 has a cycle of length 900
+
+1811 has a cycle of length 1810
+
+1823 has a cycle of length 1822
+
+1831 has a cycle of length 305
+
+1847 has a cycle of length 1846
+
+1861 has a cycle of length 1860
+
+1867 has a cycle of length 933
+
+1871 has a cycle of length 935
+
+1873 has a cycle of length 1872
+
+1877 has a cycle of length 938
+
+1879 has a cycle of length 313
+
+1889 has a cycle of length 118
+
+1901 has a cycle of length 380
+
+1907 has a cycle of length 953
+
+1913 has a cycle of length 1912
+
+1931 has a cycle of length 386
+
+1933 has a cycle of length 21
+
+1949 has a cycle of length 1948
+
+1951 has a cycle of length 195
+
+1973 has a cycle of length 986
+
+1979 has a cycle of length 1978
+
+1987 has a cycle of length 331
+
+1993 has a cycle of length 664
+
+1997 has a cycle of length 998
+
+1999 has a cycle of length 999
+
+2003 has a cycle of length 1001
+
+2011 has a cycle of length 670
+
+2017 has a cycle of length 2016
+
+2027 has a cycle of length 1013
+
+2029 has a cycle of length 2028
+
+2039 has a cycle of length 1019
+
+2053 has a cycle of length 342
+
+2063 has a cycle of length 2062
+
+2069 has a cycle of length 2068
+
+2081 has a cycle of length 1040
+
+2083 has a cycle of length 1041
+
+2087 has a cycle of length 298
+
+2089 has a cycle of length 1044
+
+2099 has a cycle of length 2098
+
+2111 has a cycle of length 1055
+
+2113 has a cycle of length 2112
+
+2129 has a cycle of length 532
+
+2131 has a cycle of length 710
+
+2137 has a cycle of length 2136
+
+2141 has a cycle of length 2140
+
+2143 has a cycle of length 2142
+
+2153 has a cycle of length 2152
+
+2161 has a cycle of length 30
+
+2179 has a cycle of length 2178
+
+2203 has a cycle of length 1101
+
+2207 has a cycle of length 2206
+
+2213 has a cycle of length 553
+
+2221 has a cycle of length 2220
+
+2237 has a cycle of length 1118
+
+2239 has a cycle of length 1119
+
+2243 has a cycle of length 1121
+
+2251 has a cycle of length 2250
+
+2267 has a cycle of length 1133
+

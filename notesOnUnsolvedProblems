@@ -1,0 +1,53 @@
+250: (DONT USE method of repeated squares) to calculate i^i % 250 for i in [1..250250] find the order of each j \in [0..249] in Z_250, then calculate k = i%250, get the order m of k mod 250, find minimum r such that i = m*s+r, then i^i % 250 = k^r % 250. Count how many times we get each value in [0..250]. Use that to see how many subsets of [i^i % 250 for i in [1..250250]] sum up to 0 % 250. Probably done by using cominatronics
+353:
+    Find all integer solutions (a,b,c) for a^2+b^2+c^2 = r^2, for some integer r. Best if i i only need O(n) time complexity, where n is thhe number of integer solutions, to do the actual generation. 
+    Will probably need to generate a bunch of primes at start. 
+    Some form of trigonometry needed. (Length of a path between two points on a sphere).
+
+273: Sum of squares:
+    Generate all primes of the form 4k+1 with 4k+1 < 150.
+    Solve a^2+b^2 = p for each of the primes generated.
+    We know each p has one and only one solution (a,b) for the equation.
+    Now we see that if we multiply two primes together we get:
+    (a^2+b^2)(c^2+d^2)=(ac+bd)^2+(ad-bc)^2.
+    How many solutions does this generate when we are calculating two of the primes together? What if we a multiplying a squarefree multiple of some of the primes to a unused prime in the group?.
+    Do this for every combination of the prime to get every solution we want.
+
+352:
+    Probably just divide and conquer with probabilities
+
+355:
+    Find all primes below 200000. Sum of all primes over 100000 plus a the maximum sum of coprime numbers containing primes only below 100000.
+
+364:
+    Probably a fun and not so hard one. Probably uses the fibonacci sequence, and some permuatation/combination shit.
+
+389:
+    Probably a cool probabilistic problem.
+    Need to know what variance is.
+
+267:
+    Probablities man. Maximizing shit. Cool stuff.
+
+271:
+    Perhaps its good practice for alco?
+272:
+    Continuation of 271
+
+53:
+    Pascals triangle holds the answer. Basic.
+
+69:
+    Totient stuff
+
+70:
+    Totient stuff.
+
+187:
+    Probably easy. Prime factorization, combinatroncs.
+
+146:
+    Fun stuffs. Alco stuffs.
+
+263:
+    Number theory, yay.

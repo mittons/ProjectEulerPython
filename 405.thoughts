@@ -1,0 +1,43 @@
+0
+boxes_0 = 1
+boxes_n = 4*boxes_{n-1}
+bexes_n = 4**n
+sideBySide_n = boxes_{n-1} + sideBySide_{n-1}
+endToEnd_n = sideBySide_{n-1}*2
+endToSide_n = 4*boxes{n-1} + endToSide_{n-1} + zigZag_{n-1}*2
+zigZag_n = endToSide_{n-1} 
+
+crossRoads_n = sideBySide_{n-1}*2 + zigZag_{n-1}
+
+
+boxes_0 = 1
+boxes_n = 4*boxes_{n-1}
+bexes_n = 4**n
+sideBySide_n = boxes_{n-1} + sideBySide_{n-1}
+endToEnd_n = sideBySide_{n-1}*2
+endToSide_n = 4*boxes{n-1} + endToSide_{n-1} + endToSide_{n-2}*2
+zigZag_n = endToSide_{n-1}
+
+crossRoads_n = sideBySide_{n-1}*2 + endToSide_{n-2}
+
+
+boxes_0 = 1
+boxes_n = 4*boxes_{n-1}
+bexes_n = 4**n
+sideBySide_n = 4**(n-1) + sideBySide_{n-1}
+endToEnd_n = sideBySide_{n-1}*2
+endToSide_n = 4**n + endToSide_{n-1} + endToSide_{n-2}*2
+zigZag_n = endToSide_{n-1}
+
+crossRoads_n = sideBySide_{n-1}*2 + endToSide_{n-2}
+
+
+boxes_0 = 1
+boxes_n = 4*boxes_{n-1}
+bexes_n = 4**n
+sideBySide_n = 4**(n-1) + 4**(n-2) + 4**(n-3) + sideBySide_{n-3}
+endToEnd_n = sideBySide_{n-1}*2
+endToSide_n = 4**n + 4**(n-1) + 3*4**(n-2) 5*4**(n-3) + 11*4**(n-4) + 21*4**(n-5) + 43*4**(n-6)+ endToSide_{n-7}*85 + endToSide_{n-8}*86
+zigZag_n = endToSide_{n-1}
+
+crossRoads_n = sideBySide_{n-1}*2 + endToSide_{n-2}

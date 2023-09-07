@@ -1,0 +1,27 @@
+18: partly unindexed: tree search? iterative solution
+19: unindexed
+21: unindexed
+25: fibonacci generator
+		returns fibonacci number over some number c
+28: unindexed
+30: unindexed
+31: unindexed
+35: unindexed
+36: unindexed
+39: pythagorean triplets max same perimeter (same solution as in 75)
+40: unindexed
+41: unindexed
+45: triangle, pentagonal, and hexagonal numbers. when r they eq?
+47: dictionary of factors
+50: unindexed
+75: pythagoreant triplets same perimeter count (same solution as in 39)
+81: min-cost-path search (djikstra?) via bfs.
+		Prevents generating paths from node using current path length if node has already been visited with a shorter pathlength
+233: fibonacci
+282: unfinished
+387:divisibility: primes
+	dynamic generation of integers via dfs: 
+		higest dfs level generates smallest numbers, each level adds digits at back to generate larger numbers.
+		Each level has access to sum of its numbers digits
+		Each level has access to the number from the last level
+		Each level has access to the sum of digits of the number of last level
