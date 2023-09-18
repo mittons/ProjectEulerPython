@@ -1,5 +1,5 @@
 
-matrixFile = open("matrix81.txt", 'r')
+matrixFile = open("in_81/matrix81.txt", 'r')
 
 matrix = []
 for line in matrixFile:

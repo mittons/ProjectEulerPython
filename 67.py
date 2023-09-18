@@ -1,6 +1,6 @@
 triangle = []
 
-f = open('triangle67.txt','r')
+f = open('in_67/triangle67.txt','r')
 for line in f:
 	triangle.append((map(lambda s: int(s),line[:-1].split(' '))))
 

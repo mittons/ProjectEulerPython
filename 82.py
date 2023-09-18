@@ -1,6 +1,6 @@
 from collections import deque
 
-matrixFile = open("matrix82.txt", 'r')
+matrixFile = open("in_82/matrix82.txt", 'r')
 
 matrix = []
 for line in matrixFile:

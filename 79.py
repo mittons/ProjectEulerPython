@@ -1,5 +1,5 @@
 from usefulStuff import *
-f = open('keylog79.txt', 'r')
+f = open('in_79/keylog79.txt', 'r')
 
 keys = []
 

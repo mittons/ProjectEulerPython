@@ -1,4 +1,4 @@
-f = open("names22.txt", 'r')
+f = open("in_22/names22.txt", 'r')
 
 nameString = ""
 for line in f:

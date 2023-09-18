@@ -1,6 +1,6 @@
 from collections import deque
 
-f = open('network107.txt','r')
+f = open('in_107/network107.txt','r')
 
 lines = f.readlines()
 

@@ -1,4 +1,4 @@
-f = open("words42.txt", "r")
+f = open("in_42/words42.txt", "r")
 
 
 

@@ -139,7 +139,7 @@ def isFirstHandWinner(hand0, hand1):
                 return False
         else:
                 return breakTie(hand0, hand1, rank0)
-f = open("poker54.txt", 'r')
+f = open("in_54/poker54.txt", 'r')
 playerOneWinCount = 0
 for line in f:
         l = line[0:-1].split(' ')

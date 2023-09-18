@@ -1,4 +1,4 @@
-f = file('cipher59.txt','r')
+f = file('in_59/cipher59.txt','r')
 l = f.readline()
 l = l.split(',')
 l = map(lambda x: int(x), l)
